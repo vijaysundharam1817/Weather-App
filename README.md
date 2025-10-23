@@ -33,26 +33,6 @@ A simple and interactive Weather Application that allows users to check the curr
 
 ---
 
-## Installation & Setup ⚙️
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/weather-app.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
-4. (Optional) Get your own API key from [OpenWeatherMap](https://openweathermap.org/api) and replace it in `script.js`:
-
-```javascript
-const apiKey = 'YOUR_API_KEY';
-```
-
----
-
 ## Future Improvements 🚀
 
 * Add 5-day weather forecast.
